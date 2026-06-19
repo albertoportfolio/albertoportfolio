@@ -71,14 +71,11 @@ I'm **Alberto**, a graduate in **Multiplatform Application Development (DAM)**. 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertoportfolio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertoportfolio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoportfolio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
 <br/>
-
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertoportfolio&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
