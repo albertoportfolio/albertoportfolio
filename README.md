@@ -23,9 +23,10 @@
 
 ## 🚀 About Me
 
-I'm **Alberto**, a graduate in **Multiplatform Application Development (DAM)**. I enjoy turning ideas into real products and working across the full stack — from polished mobile interfaces to robust backend services and the databases that power them.
+I'm **Alberto**, a graduate in **Multiplatform Application Development (DAM)** and Student of year 3 of BSc in Computing. I enjoy turning ideas into real products and working across the full stack — from polished mobile interfaces to robust backend services and the databases that power them.
 
 - 🎓 Graduate in **Multiplatform Application Development**
+- 🎓 Studying third year of **Bachelor of science in Computing**
 - 📱 Hands-on experience building **mobile apps with Flutter**
 - ☕ Backend development with **Java + Spring**
 - ⚛️ Web apps with **React + TypeScript**, **Node.js** and **Next.js**
